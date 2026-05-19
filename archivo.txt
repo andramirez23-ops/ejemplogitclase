@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 esta es la rama master
+=======
+esta es la nueva rama
+>>>>>>> nueva-rama
+
+
+otros cambios
